@@ -1,0 +1,28 @@
+_repo: Verinen-lyhty-b-Romaani_74433
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Finne, Jalmari
+    birthdate: 1874
+    deathdate: 1938
+    gutenberg_agent_id: '43291'
+    url: http://www.gutenberg.org/2009/agents/43291
+    wikipedia: https://fi.wikipedia.org/wiki/Jalmari_Finne
+description: ''
+gutenberg_issued: '2024-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74433'
+language: fi
+pgterms:marc905: 20240915013600finne
+pgterms:marc906: '1928'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Verinen lyhty : $b Romaani'
+url: http://www.gutenberg.org/ebooks/74433
