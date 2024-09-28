@@ -1,5 +1,8 @@
 _repo: Verinen-lyhty-b-Romaani_74433
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Finne, Jalmari
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43291
     wikipedia: https://fi.wikipedia.org/wiki/Jalmari_Finne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74433#Verinen-lyhty-b-Romaani
 gutenberg_issued: '2024-09-17'
 gutenberg_type: Text
 identifiers:
